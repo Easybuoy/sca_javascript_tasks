@@ -1,3 +1,4 @@
+// Note: Make use of for loops in solving the challenges in this file
 // To help us use arrays with real world problems we are going to simulate a used car dealer that has 50 cars in their inventory.
 
 // The car dealer has all of their inventory housed in the array seen below.  Scroll down past the data to find out how you can help the car dealer.
