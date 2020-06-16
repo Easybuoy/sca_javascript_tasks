@@ -10,7 +10,7 @@ Using the concepts learned this week, Build a Todo List Application using HTML, 
 - Update a Todo List Item
 
 ### STRETCH (Start this when you're done with MVP)
-- Create a Calculator
+- Create a Calculator using HTML, CSS and Javascript
 
 
 Note: Only ES6 and above is allowed.
